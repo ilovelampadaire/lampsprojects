@@ -1,10 +1,10 @@
 ### All of my projects are here.
 -----------------------------
 # If you want to contribute. Make a pull request for any of the projects you would like to contribute on.
-*** Don't download the file manually to contribute on any of the projects here. There will be steps to setup and collaborate on any of the projects later. ***
+***Don't download the file manually to contribute on any of the projects here. There will be steps to setup and collaborate on any of the projects later.***
 
 ## Setting up for contributing
-*** Keep in mind that most of the projects are still in alpha or beta and there may be alot of bugs. You can fix project bugs or glitches by creating a pull request with the fixed code. ***
+***Keep in mind that most of the projects are still in alpha or beta and there may be alot of bugs. You can fix project bugs or glitches by creating a pull request with the fixed code.***
 
 # Windows
 
@@ -15,7 +15,7 @@
 > 5. Open `file explorer` and goto the path where you cloned the repo and open the folder called `lampsprojects`.
 > 6. After opening the folder. Open the subfolder called `projects` and this is where you can contribute.
 
-*** Note that if you want to add the changes to the projects. You need to make a pull request of your edited or fixed code, add the fixed/edited files as an attachment on your pull request. ***
+***Note that if you want to add the changes to the projects. You need to make a pull request of your edited or fixed code, add the fixed/edited files as an attachment on your pull request.***
 
 # Linux
 
